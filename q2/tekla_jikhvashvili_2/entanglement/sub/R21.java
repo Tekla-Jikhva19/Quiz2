@@ -1,6 +1,6 @@
-package quizes.q2.salome_kikilashvili_2.kinetics.sub;
-import quizes.q2.salome_kikilashvili_2.kinetics.A21;
-import quizes.q2.salome_kikilashvili_2.hop.A22;
+package quizes.q2.tekla_jikhvashvilii_2.entanglement.sub;
+import quizes.q2.tekla_jikhvashvili_2.entanglement.A21;
+import quizes.q2.tekla_jikhvashvili_2.ball.A22;
 
 public class R21 {
     public static void main(String[] args) {
